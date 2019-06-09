@@ -2,10 +2,9 @@ package main
 
 import (
 	"cs/model"
-	//"database/sql"
+	"database/sql"
 	//"fmt"
 	"github.com/jinzhu/gorm"
-	_ "github.com/jinzhu/gorm/dialects/mysql"
 )
 
 func main() {

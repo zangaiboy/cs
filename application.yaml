@@ -1,0 +1,8 @@
+mysql:
+  host: root:wang0203@tcp(192.168.86.128:3306)/test?charset=utf8&parseTime=True&loc=Local
+  username: root
+  password: wang0203
+redis:
+  host: 192.168.86.128:6379
+kdxf:
+  url:
